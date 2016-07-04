@@ -1,0 +1,17 @@
+{
+  "name": "map-robot-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.72.0",
+    "serialport": "^4.0.0",
+    "socket.io-client": "^1.4.8"
+  }
+}
